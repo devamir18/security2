@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="relative bg-[#0B0E14] overflow-hidden py-24 px-6 border-b border-white/10">
   <div className="absolute top-1/4 left-1/4 size-96 bg-cyan-500/5 rounded-full blur-[120px] pointer-events-none" />
 
-  <div className="max-w-6xl mx-auto grid lg:grid-cols-2 gap-12 items-center">
+  <div className="max-w-6xl mx-auto mt-10 md:mt-20 grid lg:grid-cols-2 gap-12 items-center">
     <div>
       <span className="text-xs font-mono tracking-widest text-cyan-400 uppercase bg-cyan-400/10 px-3 py-1 rounded-full">
         ● Real-Time Safety Protocol

@@ -17,7 +17,7 @@ export default function App() {
          
           <Route path="/" element={
             <>
-              <Header />
+              <Header/>
               <Hero/>
               <Hero2/>
               <Hero3/>
